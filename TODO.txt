@@ -1,0 +1,6 @@
+// TODO : order :  주문ID, 상품ID (주문을 Q에 넣기)
+// TODO : process : deQ 처리됨 (이 상태에서 파일로 저장됨), 파일은 cvs 형태(마지막 필드는 process 처리 여부 T/F)
+// TODO : find [order ID] : ID 주문에 대한 상세정보 보여줌
+// TODO : list : 주문 ID 100개 정도 나열, 주문 목록보기 ( 주문 ID, 사람 ID )
+// TODO : logo : process 된 주문을 배송처리, 물류처리(주문이 처리가 되었는지 아닌지 -> Queue 에서 나갔는지 아직 남아있는지)
+// TODO : logistic orderID - T/F봐서 물류 처리 된 건지 보고 처리가 안된 거면 T로 바꾸기
